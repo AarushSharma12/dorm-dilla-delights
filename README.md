@@ -23,4 +23,4 @@ SEO-Optimized: Enhanced for high visibility on search engines.
 User-Friendly Interface: Designed for easy navigation and a pleasant user experience.
 
 Contact
-For any inquiries or feedback, feel free to reach out to me at as2027@gmail.com. I look forward to hearing from you!
+For any inquiries or feedback, feel free to reach out to me at as2027@uw.edu. I look forward to hearing from you!
