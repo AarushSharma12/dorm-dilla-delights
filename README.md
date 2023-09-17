@@ -4,7 +4,7 @@
 ## **Introduction**
 
 Welcome to the GitHub repository for Dorm Dilla Delights, the ultimate destination for quesadilla aficionados at UW! 
-The mission is to offer gourmet quesadillas that are both affordable and convenient for college students. Dive in to discover more about our project, from the website structure to promotional strategies and more!
+The mission is to offer gourmet quesadillas that are both affordable and convenient for college students. Dive in to discover more about the project, from the website structure to promotional strategies and more!
 
 ## **Project Overview**
 
@@ -13,7 +13,7 @@ The goal of this project is to create an online platform where students can expl
 
 ## **Website Structure**
 
-_Home/Hero Page:_ An inviting introduction to our brand and offerings. <br> _Order Online:_ A user-friendly interface for placing orders efficiently. <br> _Menu:_ Detailed examples of some of our gourmet quesadilla selections, including descriptions with the calories, DillaScore and rating. <br> _Testimonials:_ Real feedback from our satisfied customers. <br> _Pricing:_ View either of our plans that appeal to a range of customers. <br> _Features:_ A list of important aspects of the business that are crutial for the user to understand. <br> _Call to Action:_ A sign up form for users to input their email. <br> _Contact Us:_ Information on how to get in touch with us for inquiries or feedback.
+_Home/Hero Page:_ An inviting introduction to our brand and offerings. <br> _Order Online:_ A user-friendly interface for placing orders efficiently. <br> _Menu:_ Detailed examples of some of our gourmet quesadilla selections <br> _Testimonials:_ Real feedback from our satisfied customers. <br> _Pricing:_ View either of our plans that appeal to a range of customers. <br> _Features:_ A list of important aspects of the business that are crutial for the user to understand. <br> _Call to Action:_ A sign up form for users to input their email. <br> _Contact Us:_ Information on how to get in touch with us for inquiries or feedback.
 
 ## **Website Features**
 
